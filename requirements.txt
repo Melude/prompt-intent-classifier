@@ -1,0 +1,7 @@
+transformers
+torch
+PyYAML
+jupyter
+matplotlib
+scikit-learn
+ipykernel

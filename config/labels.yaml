@@ -1,0 +1,18 @@
+# Labels für Klassifikation (intent, domain, etc.)
+
+intent:
+  - Frage
+  - Befehl
+  - Ideengenerierung
+  - Zusammenfassung
+
+domain:
+  - Finanzen
+  - Marketing
+  - Persönlich
+  - Technik
+
+difficulty:
+  - low
+  - medium
+  - high
