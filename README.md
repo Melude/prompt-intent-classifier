@@ -4,11 +4,13 @@ Ein kleines, modular aufgebautes Projekt, um Prompts mithilfe von Hugging Face Z
 
 ## Beispiel
 ```json
-Eingabe: "Wie kann ich meine Steuerlast reduzieren?"
-Ausgabe: {
-  "intent": "Frage",
-  "domain": "Finanzen",
-  "difficulty": "medium"
+{
+  "input": "Wie kann ich meine Steuerlast reduzieren?",
+  "output": {
+    "intent": "Frage",
+    "domain": "Finanzen",
+    "difficulty": "medium"
+  }
 }
 ```
 
