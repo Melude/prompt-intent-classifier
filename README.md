@@ -39,4 +39,4 @@ python scripts/classify_prompt.py "Wie kann ich meine Steuerlast reduzieren?"
 ```
 ## Hinweis
 
-Dieses Projekt eignet sich ideal, um Promptdaten in Klassifikationspipelines einzubinden oder für explorative Analysen in LLM-Anwendungen.
+Dieses Projekt eignet sich ideal, um Promptdaten in Klassifikationspipelines einzubinden.
